@@ -2,6 +2,8 @@
 
 > Nuxt + Electron
 
+My problem: to trigger an ajax request to nodejs in nuxt/electron template. Solved by initializing an second server in main.js
+
 ## Build Setup
 
 ``` bash
